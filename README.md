@@ -1,4 +1,4 @@
-###Query String Variable Interpolator
+### Query String Variable Interpolator
 
 A tiny test function and swagger file to configure the API Gateway and AWS Lambda to accept form variables in a text string of url encoded query string parameters and return them as an object.
 
